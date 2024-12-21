@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/5e5b7597-2846-4736-b3dd-a6998bc04ecb/resourceGroups/6260nitishpandey_rg_5463/providers/Microsoft.Web/sites/demoexpress",
+    "appService.deploySubpath": "."
+}
